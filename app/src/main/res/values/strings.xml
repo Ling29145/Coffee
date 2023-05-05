@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Coffee</string>
+    <string name="logo">star buzz</string>
+    <string name="tv_name">商品名字</string>
+    <string name="tv_desc">商品描述</string>
+    <string name="iv_picture">商品图片</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+</resources>
